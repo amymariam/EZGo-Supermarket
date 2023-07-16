@@ -16,5 +16,6 @@ In this project the user can enter a new order , customize their order, search f
 
 
 ## Flowchart
+![image](https://github.com/amymariam/EZGo-Supermarket/assets/78523866/6b078aee-d7f3-4766-a833-a6cd6988f219)
 
 
